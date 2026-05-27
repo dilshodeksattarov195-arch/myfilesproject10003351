@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdelete",
+        "uuid": 2979039,
+        "checksum": "q2jjnl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
